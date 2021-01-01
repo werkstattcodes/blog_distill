@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:distill="https://distill.pub/journal/" version="2.0">
+  <channel>
+    <title>werk.statt.codes</title>
+    <link>https://werk.statt.codes/</link>
+    <atom:link href="https://werk.statt.codes/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Personal blog on stuff related to R
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>testing overflow properties</title>
+      <dc:creator>Roland Schmidt</dc:creator>
+      <link>https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties</link>
+      <description>&lt;p&gt;A short description of the post.&lt;/p&gt;
+</description>
+      <guid>https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties</guid>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties/testing-overflow-properties_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Similarity of public submissions to Austria's amendment of the epidemic law</title>
+      <dc:creator>Roland Schmidt</dc:creator>
+      <link>https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw</link>
+      <description>&lt;p&gt;An analysis of public submissions to bill seeking to amend Austria&amp;#39;s epidemic law.&lt;/p&gt;
+</description>
+      <category>Austria</category>
+      <category>Corona virus</category>
+      <category>OCR</category>
+      <category>stringr</category>
+      <category>web scraping</category>
+      <guid>https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw</guid>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw/submissionsepidemiclaw_files/figure-html5/unnamed-chunk-28-1.svg" medium="image" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>Vienna Elections 2020: Analysis of parties' ads on facebook</title>
+      <dc:creator>Roland Schmidt</dc:creator>
+      <link>https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook</link>
+      <description>&lt;p&gt;Analysis of the facebook ads placed in the run-up to the 2020 Vienna city elections.&lt;/p&gt;
+</description>
+      <category>Austria</category>
+      <category>social media</category>
+      <category>election</category>
+      <guid>https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook</guid>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook/welcome_files/preview.png" medium="image" type="image/png" width="707" height="471"/>
+    </item>
+  </channel>
+</rss>

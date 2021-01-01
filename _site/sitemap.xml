@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://werk.statt.codes/about.html</loc>
+    <lastmod>2020-12-27T21:32:19+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://werk.statt.codes/</loc>
+    <lastmod>2020-12-27T22:54:48+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties/</loc>
+    <lastmod>2021-01-02T00:24:28+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw/</loc>
+    <lastmod>2021-01-02T00:33:27+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook/</loc>
+    <lastmod>2021-01-01T21:34:50+01:00</lastmod>
+  </url>
+</urlset>
