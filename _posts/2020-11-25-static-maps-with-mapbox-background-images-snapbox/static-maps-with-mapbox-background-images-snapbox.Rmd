@@ -9,7 +9,7 @@ author:
     url: https://werk.statt.codes
     orcid_id: 0000-0002-6897-1693
 
-# preview:
+preview: static-maps-with-mapbox-background-images-snapbox_files/preview.png
 
 
 date: 11-25-2020
@@ -65,7 +65,7 @@ plot_bg_color <- readr::read_file(file=here::here("theme.css")) %>%
 Get the election results from 2015 and 2020, retrieve the number of eligible voters per precinct (`wber``), and calculate the change.
 
 <details open>
-<summary>Code: Get electoral data + change in number of elegible voters </summary>
+<summary>Code: Get electoral data + change in number of eligible voters </summary>
 ```{r message=FALSE, warning=FALSE}
 # https://www.data.gv.at/katalog/dataset/stadt-wien_wahleninwiengemeinderatswahlen/resource/a526df98-c307-4dee-8233-43b02856d1d7
 # https://www.wien.gv.at/politik/wahlen/hilfetext/rohdaten.html
