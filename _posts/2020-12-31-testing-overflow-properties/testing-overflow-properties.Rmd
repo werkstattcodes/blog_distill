@@ -12,6 +12,8 @@ output:
     code_folding: true
     highlight: haddock
     highlight_downlit: true
+
+draft: true
 ---
 
 

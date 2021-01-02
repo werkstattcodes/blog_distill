@@ -16,7 +16,7 @@ categories:
   - stringr
   - web scraping
 
-preview: welcome_files/preview.png
+preview: static-maps-with-mapbox-background-images-snapbox_files/preview.png
 
 output:
   distill::distill_article:

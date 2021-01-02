@@ -2145,6 +2145,7 @@ d-appendix {
 @import url('https://fonts.googleapis.com/css?family=PT Serif');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 @import url("https://cloud.typography.com/6771036/7342412/css/fonts.css");
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
 
@@ -2164,7 +2165,7 @@ html {
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    sans-serif;
-  --mono-font:       monospace;
+  --mono-font:       'Roboto Mono';/*monospace;*/
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
@@ -2286,12 +2287,14 @@ d-article pre, d-article div.sourceCode, d-article div.sourceCode pre {
 
 a.title:not(nav-right) {
    color: white;
+   font-family: 'Roboto Mono';
    font-weight: bold;
    background-color: black;
 }
 
 a.title:hover:not(nav-right) {
    color: black;
+   font-family: 'Roboto Mono';
    font-weight: bold;
    background-color: #f0eff0;
 }

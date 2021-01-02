@@ -128,7 +128,7 @@ code span.wa { color: #008000; font-weight: bold; } /* Warning */
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-10-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-12-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-14-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-6-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-7-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-8-1.png"]}
+  {"type":"character","attributes":{},"value":["static-maps-with-mapbox-background-images-snapbox_files/anchor-4.2.2/anchor.min.js","static-maps-with-mapbox-background-images-snapbox_files/bowser-1.9.3/bowser.min.js","static-maps-with-mapbox-background-images-snapbox_files/distill-2.2.21/template.v2.js","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-10-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-12-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-14-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-6-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-7-1.png","static-maps-with-mapbox-background-images-snapbox_files/figure-html5/unnamed-chunk-8-1.png","static-maps-with-mapbox-background-images-snapbox_files/header-attrs-2.6/header-attrs.js","static-maps-with-mapbox-background-images-snapbox_files/jquery-1.11.3/jquery.min.js","static-maps-with-mapbox-background-images-snapbox_files/popper-2.6.0/popper.min.js","static-maps-with-mapbox-background-images-snapbox_files/tippy-6.2.7/tippy-bundle.umd.min.js","static-maps-with-mapbox-background-images-snapbox_files/tippy-6.2.7/tippy-light-border.css","static-maps-with-mapbox-background-images-snapbox_files/tippy-6.2.7/tippy.css","static-maps-with-mapbox-background-images-snapbox_files/tippy-6.2.7/tippy.umd.min.js","static-maps-with-mapbox-background-images-snapbox_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2145,6 +2145,7 @@ d-appendix {
 @import url('https://fonts.googleapis.com/css?family=PT Serif');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 @import url("https://cloud.typography.com/6771036/7342412/css/fonts.css");
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
 
@@ -2164,7 +2165,7 @@ html {
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    sans-serif;
-  --mono-font:       monospace;
+  --mono-font:       'Roboto Mono';/*monospace;*/
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
@@ -2286,12 +2287,14 @@ d-article pre, d-article div.sourceCode, d-article div.sourceCode pre {
 
 a.title:not(nav-right) {
    color: white;
+   font-family: 'Roboto Mono';
    font-weight: bold;
    background-color: black;
 }
 
 a.title:hover:not(nav-right) {
    color: black;
+   font-family: 'Roboto Mono';
    font-weight: bold;
    background-color: #f0eff0;
 }
