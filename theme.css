@@ -142,6 +142,7 @@ d-article pre, d-article div.sourceCode, d-article div.sourceCode pre {
 }
 
 
+/*
 .distill-site-header .title {
    max-width: 53px;
    min-width: 53px;
@@ -153,6 +154,7 @@ d-article pre, d-article div.sourceCode, d-article div.sourceCode pre {
    padding-top: 2px;
    padding-bottom: 2px;
 }
+*/
 
 a.title:not(nav-right) {
    color: white;

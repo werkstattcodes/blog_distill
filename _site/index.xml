@@ -67,5 +67,18 @@
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       <media:content url="https://werk.statt.codes/posts/2020-10-10-vienna-elections-2020-age-profile/vienna-elections-2020-age-profile_files/figure-html5/unnamed-chunk-20-1.svg" medium="image" type="image/svg+xml"/>
     </item>
+    <item>
+      <title>Austrian Parliament: MPs transparency and conflict of interest report</title>
+      <dc:creator>Roland Schmidt</dc:creator>
+      <link>https://werk.statt.codes/posts/2020-07-21-austrian-parliament-mps-transparency-and-conflict-of-interest-report</link>
+      <description>&lt;p&gt;A short description of the post.&lt;/p&gt;
+</description>
+      <category>Austria</category>
+      <category>OCR</category>
+      <category>web scraping</category>
+      <guid>https://werk.statt.codes/posts/2020-07-21-austrian-parliament-mps-transparency-and-conflict-of-interest-report</guid>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://werk.statt.codes/posts/2020-07-21-austrian-parliament-mps-transparency-and-conflict-of-interest-report/austrian-parliament-mps-transparency-and-conflict-of-interest-report_files/figure-html5/unnamed-chunk-23-1.png" medium="image" type="image/png" width="3900" height="2400"/>
+    </item>
   </channel>
 </rss>
