@@ -13,7 +13,7 @@ output:
     highlight: haddock
     highlight_downlit: true
 
-draft: true
+draft: false
 ---
 
 
@@ -65,8 +65,6 @@ rt_theme <- reactableTheme(backgroundColor = plot_bg_color,
 
 
 
-wide code chunk
-
 
 ```{r, eval=FALSE}
 #dfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
@@ -92,5 +90,45 @@ mtcars %>%
                  y=cyl))+
   theme(plot.background = element_rect(fill=plot_bg_color))
   
+```
+# heading 1
+
+test test
+
+## heading 2
+
+test test
+
+### heading 3
+
+text text
+
+
+
+```{r}
+library(reactable)
+mtcars %>% 
+  reactable(., 
+            defaultPageSize = 4, 
+          # columns = list(
+          #   link_single_submission_page = colDef(
+          #     cell = function(value) {
+          #       url <- value
+          #       htmltools::tags$a(href = url, 
+          #                         target = "_blank", 
+          #                         value)
+          #       },
+          #     width = 150,
+          #     html=TRUE
+          #     )),
+          filterable = TRUE,
+          bordered=TRUE,
+          compact = TRUE,
+          style = list(fontSize = "10px"),
+          theme = reactableTheme(
+            backgroundColor = "#f0eff0",
+                filterInputStyle = list(
+                  color="green",
+                  backgroundColor = "#f0eff0")))
 ```
 
