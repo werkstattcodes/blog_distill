@@ -32,7 +32,7 @@ output:
   distill::distill_article
 exclude: ["*.csv"] 
 
-theme: theme.css 
+#theme: theme.css 
 preview: static/site-preview.png
 
 creative_commons: CC BY
