@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:distill="https://distill.pub/journal/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>werk.statt.codes</title>
     <link>https://werk.statt.codes/</link>
@@ -7,60 +7,68 @@
     <description>Personal blog on stuff related to R
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>this is a test</title>
+      <dc:creator>Roland Schmidt</dc:creator>
+      <link>https://werk.statt.codes/post/2021-01-05-this-is-a-test</link>
+      <description>A short description of the post.</description>
+      <guid>https://werk.statt.codes/post/2021-01-05-this-is-a-test</guid>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>testing overflow properties</title>
       <dc:creator>Roland Schmidt</dc:creator>
-      <link>https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties</link>
+      <link>https://werk.statt.codes/post/2020-12-31-testing-overflow-properties</link>
       <description>A short description of the post.</description>
-      <guid>https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties</guid>
+      <guid>https://werk.statt.codes/post/2020-12-31-testing-overflow-properties</guid>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://werk.statt.codes/posts/2020-12-31-testing-overflow-properties/testing-overflow-properties_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+      <media:content url="https://werk.statt.codes/post/2020-12-31-testing-overflow-properties/testing-overflow-properties_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Similarity of public submissions to Austria's amendment of the epidemic law</title>
       <dc:creator>Roland Schmidt</dc:creator>
-      <link>https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw</link>
+      <link>https://werk.statt.codes/post/2020-12-22-submissionsepidemiclaw</link>
       <description>An analysis of public submissions to bill seeking to amend Austria's epidemic law.</description>
       <category>Austria</category>
       <category>Corona virus</category>
       <category>OCR</category>
       <category>stringr</category>
       <category>web scraping</category>
-      <guid>https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw</guid>
+      <guid>https://werk.statt.codes/post/2020-12-22-submissionsepidemiclaw</guid>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://werk.statt.codes/posts/2020-12-22-submissionsepidemiclaw/submissionsepidemiclaw_files/preview.png" medium="image" type="image/png" width="1086" height="685"/>
+      <media:content url="https://werk.statt.codes/post/2020-12-22-submissionsepidemiclaw/submissionsepidemiclaw_files/preview.png" medium="image" type="image/png" width="1086" height="685"/>
     </item>
     <item>
       <title>Vienna Elections 2020: Analysis of parties' ads on facebook</title>
       <dc:creator>Roland Schmidt</dc:creator>
-      <link>https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook</link>
+      <link>https://werk.statt.codes/post/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook</link>
       <description>Analysis of the facebook ads placed in the run-up to the 2020 Vienna city elections.</description>
       <category>Austria</category>
       <category>social media</category>
       <category>election</category>
-      <guid>https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook</guid>
+      <guid>https://werk.statt.codes/post/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook</guid>
       <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://werk.statt.codes/posts/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook/welcome_files/preview.png" medium="image" type="image/png" width="1079" height="683"/>
+      <media:content url="https://werk.statt.codes/post/2020-12-19-vienna-elections-2020-analysis-of-parties-ads-on-facebook/welcome_files/preview.png" medium="image" type="image/png" width="1079" height="683"/>
     </item>
     <item>
       <title>Static maps with mapbox background images ({snapbox})</title>
       <dc:creator>Roland Schmidt</dc:creator>
-      <link>https://werk.statt.codes/posts/2020-11-25-static-maps-with-mapbox-background-images-snapbox</link>
+      <link>https://werk.statt.codes/post/2020-11-25-static-maps-with-mapbox-background-images-snapbox</link>
       <description>How to add mapbox background images with the {snapbox} package.</description>
       <category>maps</category>
       <category>Austria</category>
       <category>sf</category>
       <category>snapbox</category>
       <category>mapbox</category>
-      <guid>https://werk.statt.codes/posts/2020-11-25-static-maps-with-mapbox-background-images-snapbox</guid>
+      <guid>https://werk.statt.codes/post/2020-11-25-static-maps-with-mapbox-background-images-snapbox</guid>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://werk.statt.codes/posts/2020-11-25-static-maps-with-mapbox-background-images-snapbox/static-maps-with-mapbox-background-images-snapbox_files/preview.png" medium="image" type="image/png" width="900" height="700"/>
+      <media:content url="https://werk.statt.codes/post/2020-11-25-static-maps-with-mapbox-background-images-snapbox/static-maps-with-mapbox-background-images-snapbox_files/preview.png" medium="image" type="image/png" width="900" height="700"/>
     </item>
     <item>
       <title>Vienna Elections 2020: Age profile of electoral candidates</title>
       <dc:creator>Roland Schmidt</dc:creator>
-      <link>https://werk.statt.codes/posts/2020-10-10-vienna-elections-2020-age-profile</link>
+      <link>https://werk.statt.codes/post/2020-10-10-vienna-elections-2020-age-profile</link>
       <description>Analysis of age profile of candidates to the 2020 Vienna elections.</description>
       <category>Austria</category>
       <category>elections</category>
@@ -68,9 +76,9 @@
       <category>regex</category>
       <category>reactable</category>
       <category>gt</category>
-      <guid>https://werk.statt.codes/posts/2020-10-10-vienna-elections-2020-age-profile</guid>
+      <guid>https://werk.statt.codes/post/2020-10-10-vienna-elections-2020-age-profile</guid>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://werk.statt.codes/posts/2020-10-10-vienna-elections-2020-age-profile/vienna-elections-2020-age-profile_files/figure-html5/unnamed-chunk-20-1.svg" medium="image" type="image/svg+xml"/>
+      <media:content url="https://werk.statt.codes/post/2020-10-10-vienna-elections-2020-age-profile/vienna-elections-2020-age-profile_files/figure-html5/unnamed-chunk-20-1.svg" medium="image" type="image/svg+xml"/>
     </item>
   </channel>
 </rss>
